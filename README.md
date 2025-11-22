@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://github.com/Eggy76/Eggy76">
+    <img src="https://github.com/Jabiii1/gif/blob/main/coding-typing.gif" alt="Logo" width="300" height="300">
+  </a></div>
+
+
 ## Hi there 👋
 
 Here are some ideas to get you started:
