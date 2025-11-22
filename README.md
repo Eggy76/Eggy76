@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Eggy76/Eggy76">
-    <img src="https://github.com/Jabiii1/gif/blob/main/coding-typing.gif" alt="Logo" width="300" height="300">
+    <img src="https://github.com/Eggy76/Eggy76/blob/main/image.gif" alt="Logo" width="491" height="300">
   </a></div>
 
 
