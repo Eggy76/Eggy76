@@ -24,8 +24,3 @@ Here are some ideas to get you started:
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Eggy76&theme=dark&layout=compact&langs_count=8" />
 </a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gooblicraft/gooblicraft/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gooblicraft/gooblicraft/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gooblicraft/gooblicraft/output/github-snake.svg" />
-</picture>
